@@ -37,6 +37,9 @@
 <a href="https://github.com/Anupam2027">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </a>
+<a href="mailto:anupam.kumari.mishra20@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
 
 ---
 
@@ -50,7 +53,7 @@
   A secure blogging platform featuring Google Auth, a responsive interface, and a blog post editor with real-time publishing.  
   [View Code](https://github.com/Anupam2027/Blog_website)
 
-- [📚 AcadVault](#)  
+- [📚 AcadVault](https://github.com/souvikkar009/Final-Year-Project)  
   A DigiLocker-like platform for managing student records — Final Year Project (Team of 5).
 
 ---
